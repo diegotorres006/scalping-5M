@@ -70,3 +70,7 @@ Incluso si la IA dice que hay una buena oportunidad, el bot aplica gestión de r
 El cuaderno recorre cada vela del año 2025, simula las compras, ventas, cobro de comisiones del broker y pérdidas por diferencias de precios (spread). Al finalizar, exporta un archivo Excel (.csv) con el historial completo de cada jugada y dibuja la gráfica del crecimiento del capital.
 
 El resultado se mide evaluando el Profit Factor (por cada dólar perdido, cuántos se ganaron), el Win Rate (porcentaje de acierto) y el Drawdown (la peor racha de pérdidas o caída máxima de la cuenta desde su punto más alto), garantizando que el sistema sea estable y matemáticamente viable antes de poner un solo dólar real en el mercado.
+
+## Demostración en Video (Pitch)
+
+Puedes ver la presentación y explicación completa del proyecto en el siguiente enlace: [Ver Video en YouTube](https://youtu.be/5KosCqqKCEo)
